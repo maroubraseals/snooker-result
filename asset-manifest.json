@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/snooker-result/static/css/main.80e7e529.css",
-    "main.js": "/snooker-result/static/js/main.0c516250.js",
+    "main.css": "/snooker-result/static/css/main.8f55835a.css",
+    "main.js": "/snooker-result/static/js/main.1b4ce014.js",
     "static/js/453.80d8bb75.chunk.js": "/snooker-result/static/js/453.80d8bb75.chunk.js",
     "index.html": "/snooker-result/index.html",
-    "main.80e7e529.css.map": "/snooker-result/static/css/main.80e7e529.css.map",
-    "main.0c516250.js.map": "/snooker-result/static/js/main.0c516250.js.map",
+    "main.8f55835a.css.map": "/snooker-result/static/css/main.8f55835a.css.map",
+    "main.1b4ce014.js.map": "/snooker-result/static/js/main.1b4ce014.js.map",
     "453.80d8bb75.chunk.js.map": "/snooker-result/static/js/453.80d8bb75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80e7e529.css",
-    "static/js/main.0c516250.js"
+    "static/css/main.8f55835a.css",
+    "static/js/main.1b4ce014.js"
   ]
 }
