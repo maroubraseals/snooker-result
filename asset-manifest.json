@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/snooker-result/static/css/main.2c38c637.css",
-    "main.js": "/snooker-result/static/js/main.a39800fe.js",
+    "main.css": "/snooker-result/static/css/main.b407a603.css",
+    "main.js": "/snooker-result/static/js/main.d878bea5.js",
     "static/js/952.e661202a.chunk.js": "/snooker-result/static/js/952.e661202a.chunk.js",
     "static/js/453.80d8bb75.chunk.js": "/snooker-result/static/js/453.80d8bb75.chunk.js",
     "index.html": "/snooker-result/index.html",
-    "main.2c38c637.css.map": "/snooker-result/static/css/main.2c38c637.css.map",
-    "main.a39800fe.js.map": "/snooker-result/static/js/main.a39800fe.js.map",
+    "main.b407a603.css.map": "/snooker-result/static/css/main.b407a603.css.map",
+    "main.d878bea5.js.map": "/snooker-result/static/js/main.d878bea5.js.map",
     "952.e661202a.chunk.js.map": "/snooker-result/static/js/952.e661202a.chunk.js.map",
     "453.80d8bb75.chunk.js.map": "/snooker-result/static/js/453.80d8bb75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c38c637.css",
-    "static/js/main.a39800fe.js"
+    "static/css/main.b407a603.css",
+    "static/js/main.d878bea5.js"
   ]
 }
