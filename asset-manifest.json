@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/snooker-result/static/css/main.245fa29f.css",
+    "main.css": "/snooker-result/static/css/main.3da9b850.css",
     "main.js": "/snooker-result/static/js/main.ca517644.js",
     "static/js/437.837df1c2.chunk.js": "/snooker-result/static/js/437.837df1c2.chunk.js",
     "static/js/206.6dcd5ac1.chunk.js": "/snooker-result/static/js/206.6dcd5ac1.chunk.js",
     "index.html": "/snooker-result/index.html"
   },
   "entrypoints": [
-    "static/css/main.245fa29f.css",
+    "static/css/main.3da9b850.css",
     "static/js/main.ca517644.js"
   ]
 }
